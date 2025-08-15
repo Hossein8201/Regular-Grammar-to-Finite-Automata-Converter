@@ -95,7 +95,7 @@ Complement
 1. **Ensure Python is installed** on your system
 2. **Navigate to the project directory**:
    ```bash
-   cd path/to/codes
+   cd codes
    ```
 3. **Run the main script**:
    ```bash
@@ -205,12 +205,6 @@ This project demonstrates key concepts in:
 ## 📝 License
 
 This project is created for educational purposes in the Theory of Machines & Languages course.
-
-## 👨‍💻 Author
-
-Student ID: 40133014  
-Course: Theory of Machines & Languages  
-Semester: 6
 
 ## 🤝 Contributing
 
