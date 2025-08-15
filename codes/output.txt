@@ -1,0 +1,61 @@
+1
+# States
+q0 q1
+# Alphabet
+a b
+# Start State
+q0
+# Final States
+q1
+# Transitions
+q0 a q1
+q0 b q0
+q1 a q0
+q1 b q1
+
+2
+# States
+q0 q4 q2 q3 q1
+# Alphabet
+a b
+# Start State
+q0
+# Final States
+q3 q4
+# Transitions
+q0 a q1
+q0 b q2
+q1 a q1
+q1 b q3
+q2 a q4
+q2 b q2
+q3 a q1
+q3 b q3
+q4 a q4
+q4 b q2
+
+3
+# States
+q0 q4 q2 q5 q3 q1 q6
+# Alphabet
+a b
+# Start State
+q0
+# Final States
+q6
+# Transitions
+q0 a q1
+q0 b q2
+q1 a q3
+q1 b q4
+q2 a q5
+q2 b q2
+q3 a q1
+q3 b q6
+q4 a q6
+q4 b q4
+q5 a q2
+q5 b q5
+q6 a q4
+q6 b q6
+
